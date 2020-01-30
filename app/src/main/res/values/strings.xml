@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ControlEnero</string>
+    <string name="titulo">ALUMNOS</string>
+    <string name="curso">Curso</string>
+    <string name="ciclo">Ciclo</string>
+    <string name="alumno">Alumno</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="listar">LISTAR</string>
+    <string name="no_nombre">Debes escribir un nombre</string>
+    <string name="nuevo_elemento">Alumno listado</string>
+    <string name="construccion">En construcción</string>
+    <string name="lista_vacia">Lista vacía</string>
+</resources>
